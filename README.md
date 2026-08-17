@@ -8,7 +8,6 @@
   </picture>
 </p>
 
-## About Me
 
 <p align="center">
   <picture>
@@ -17,7 +16,7 @@
   </picture>
 </p>
 
-## Skills
+
 
 <p align="center">
   <picture>
@@ -26,7 +25,6 @@
   </picture>
 </p>
 
-## GitHub Stats
 
 <p align="center">
   <picture>
@@ -35,7 +33,6 @@
   </picture>
 </p>
 
-## Projects
 
 <p align="center">
   <picture>
@@ -44,7 +41,7 @@
   </picture>
 </p>
 
-## Let's Connect
+
 
 <p align="center">
   <picture>
