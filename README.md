@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Helan-Rogy 👋</h1>
-<p align="center">Full-Stack Engineer building reliable, well-tested software end to end.</p>
 
 <p align="center">
   <picture>
